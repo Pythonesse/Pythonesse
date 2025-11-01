@@ -1,65 +1,62 @@
-<!--image code start-->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
-</div>
-<br>
+<h1 align="center">Hello there 👋, I'm Kevin Prado</h1>
+<h3 align="center">Data Analyst | SQL Specialist | Analytics Engineer in-training</h3>
 
-<hr>
-<h1 align="center">Hello everyone, i'm Kevin Prado.
-<Br>
+---
 
-<!--ME-->
-<p align="center">
-	<a href="https://github.com/kzvzn">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Analyst&center=true&width=380&height=45">
-	</a>
-</p>
+### 👨‍💻 About Me
 
-<!--About me-->
-<img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px" alt="Wave GIF"></img> A little bit about me:
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="left">
-      <ul>
-        <li>🖥️ Student of a B.Sc. in Computer Science.</li>
-        <li>🐍 Python developer.</li>
-        <li>🧠 Enthusiast of IA and ML.</li>
-        <li>♻️ Interested in green energy.</li>
-        <li>🕵️‍♂️ Also interested in online data privacy.</li>
-        <li>🗣️ I speak 3 languages: Español, português, English.</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-    </td>
-  </tr>
-</table> 
+I'm a data professional focusing on **Analytics Engineering**, currently pursuing a B.Sc. in Computer Science.
 
-<!--Tools-->
-<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+My passion is to transform raw, messy data into clean, reliable, and actionable information assets. I believe a robust and well-modeled data foundation is crucial for any effective business decision-making.
+
+- 💼 I'm actively building a strong portfolio demonstrating **advanced SQL skills (Window Functions & CTEs)**.
+- 💻 Currently mastering **dbt (Data Build Tool)** to implement software engineering best practices in data modeling and transformation.
+- 🎯 My immediate goal is to secure a remote Data Analyst or Analytics Engineer role where I can apply my technical skills to solve complex business problems.
+- 🎓 Student of a **B.Sc. in Computer Science** at Universidade Anhembi Morumbi.
+
+---
+
+### 🛠️ Languages and Tools (My Strategic Focus)
+
+This section highlights the core technologies I am mastering and actively using.
+
 <p align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,pytorch,basch,tensorflow,aws,gcp,mongodb&perline=3)](https://skillicons.dev)
-
-
-<!-- Media -->
-<h3 align="center">Connect with me 🤝 </h3>
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a target="_blank" href="https://www.linkedin.com/in/kevinpradosanchez/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:kaps.9312@gmail.com">
-      <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style="width:35px; height:43px;">
-    </a>
-  </div>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+  </a>
+  <a href="https://www.getdbt.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
+  </a>
 </p>
 
-
-<!-- End -->
-<div align="center">
-   Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 Kevin Prado
-</div>
+---
 
 
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/kevinpradosanchez" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Prado LinkedIn"/>
+  </a>
+  <a href="mailto:andsanprad@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Prado Gmail"/>
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pythonesse&color=blueviolet" alt="Profile views" /> 
+</p>
