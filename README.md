@@ -52,7 +52,7 @@ This section highlights the core technologies I am mastering and actively using.
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Prado LinkedIn"/>
   </a>
   <a href="mailto:andsanprad@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Prado Gmail"/>
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="andsanprad@gmail"/>
   </a>
 </p>
 
